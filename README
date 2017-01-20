@@ -1,0 +1,10 @@
+# QuickStart
+
+```shell
+mvn wildfly:run
+```
+
+```shell
+npm install
+npm start
+```
